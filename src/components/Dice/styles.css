@@ -1,0 +1,16 @@
+.dice{
+    background-color: #59E391;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 3.81277px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20.5889px;
+    line-height: 24px;
+    text-align: center;
+    color: #2B283A;
+    padding: 10px 20px;
+}
+.clicked{
+    background-color: #032878;
+    color: white;
+}
